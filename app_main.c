@@ -68,8 +68,8 @@ void wifi_connection()
     //Configuração da rede de acesso
     wifi_config_t wifi_configuration = {
         .sta = {
-            .ssid = "Tom",
-            .password = "vemvacina"}};
+            .ssid = " ---",
+            .password = " ---"}};
     
     esp_wifi_set_config(ESP_IF_WIFI_STA, &wifi_configuration); //set a configuração
     esp_wifi_start(); 

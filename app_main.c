@@ -1,5 +1,5 @@
 /*
-Código exemplo para leitura de sensor lm35, e envio de dados por socket TCP
+Código exemplo para o esp32 utilizando o ESP-IDF, para leitura de sensor lm35  e envio de dados por socket TCP
 */
 
 #include <stdio.h>

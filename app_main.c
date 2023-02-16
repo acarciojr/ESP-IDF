@@ -1,3 +1,7 @@
+/*
+Código exemplo para leitura de sensor lm35, e envio de dados por socket TCP
+*/
+
 #include <stdio.h>
 #include <stdint.h>
 #include <stddef.h>
